@@ -1,0 +1,4 @@
+data/*
+!data/sample.GED
+/.DS_Store
+/.idea/*
